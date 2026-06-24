@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Dependency directories
+node_modules/
